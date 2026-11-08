@@ -5,7 +5,8 @@ Requirements
 Windows PowerShell 5.1 or later
 sigcheck64.exe
 Internet connection
-Project Structure
+
+## Project Structure
 
 ---
 project/
