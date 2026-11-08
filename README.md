@@ -1,4 +1,4 @@
-Sigcheck VirusTotal Scanner
+# Sigcheck VirusTotal Scanner
 A Windows scanner that uses Microsoft Sysinternals Sigcheck to inspect executable files and check available VirusTotal results.
 
 Requirements
@@ -6,11 +6,15 @@ Windows PowerShell 5.1 or later
 sigcheck64.exe
 Internet connection
 Project Structure
+
+---
 project/
 ├── Start_Sigcheck.bat
 └── resources/
     ├── sigcheck.ps1
     └── sigcheck64.exe
+---
+
 Usage
 Run:
 
