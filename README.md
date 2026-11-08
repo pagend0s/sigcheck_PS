@@ -9,11 +9,13 @@ Internet connection
 ## Project Structure
 
 ---
-project/
-├── Start_Sigcheck.bat
+
+sigcheck_PS/
+├── sigcheck.bat
 └── resources/
     ├── sigcheck.ps1
     └── sigcheck64.exe
+
 ---
 
 Usage
